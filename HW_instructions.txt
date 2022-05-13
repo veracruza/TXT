@@ -33,7 +33,8 @@ TXT
 	1) git push
  14. На веб интерфейсе создать файл bug_report.txt. 
 	1) Add file->Create new file
- 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе. Commit new file
+ 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
+ 	1)Commit new file
  16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT. 
 	1) Edit this file.
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
